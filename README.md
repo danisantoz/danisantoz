@@ -18,7 +18,7 @@
 
 <div align="center">  
     <a href="https://www.linkedin.com/in/daniel-pereira-d-8a018a2a6//" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-    <a href="/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-47ac61?style=for-the-badge&logo=portfolio&logoColor=white"</a>
+   
 </div> 
     
    
