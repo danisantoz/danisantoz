@@ -2,7 +2,7 @@
 Olá, Sou o Daniel, Tenho 19 Anos, e Curso Análise e Desenvolvimento de Sistemas.
 
 
-## 🌐 Socials:
+## 🌐 Links:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/daniel-pereira-d-8a018a2a6/) 
 
 # 💻:
