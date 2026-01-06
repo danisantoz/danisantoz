@@ -2,7 +2,7 @@
 
 Olá! Me chamo **Daniel**, tenho 20 anos e sou estudante do **5º semestre de Análise e Desenvolvimento de Sistemas** pela Anhanguera.
 
-Sou apaixonado por tecnologia e desenvolvimento front-end, com foco em transformar ideias em interfaces funcionais e bem estruturadas usando **HTML, CSS e JavaScript puro**.
+Sou apaixonado por tecnologia e desenvolvimento front-end, com foco em transformar ideias em interfaces funcionais e bem estruturadas usando **HTML, CSS e JavaScript**.
 
 Esse GitHub é meu espaço para compartilhar projetos práticos, estudos e minha evolução como desenvolvedor. Fique à vontade para explorar 🚀
 
