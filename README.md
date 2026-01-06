@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-Olá! Me chamo Daniel, tenho 20 anos e atualmente estou no 4º semestre de Análise e Desenvolvimento de Sistemas pela Anhanguera. Sou apaixonado por tecnologia, programação e por transformar ideias em soluções reais.
+Olá! Me chamo Daniel, tenho 20 anos e atualmente estou no 5º semestre de Análise e Desenvolvimento de Sistemas pela Anhanguera. Sou apaixonado por tecnologia, programação e por transformar ideias em soluções reais.
 
 Este perfil é onde compartilho meus projetos, aprendizados e experiências ao longo da minha jornada na área de desenvolvimento. Seja muito bem-vindo(a) ao meu GitHub — fique à vontade para explorar, colaborar ou apenas dar uma olhada no que ando criando! 🚀<br/>
 # 🌎 Links:
