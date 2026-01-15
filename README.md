@@ -26,17 +26,6 @@ Fique à vontade para explorar 🚀
 
 ---
 
-## ➡️ Projetos em destaque
-
-| Projeto | Descrição | Status |
-|-------|----------|--------|
-| Clone Netflix | Interface inspirada na Netflix (HTML/CSS) | Em desenvolvimento |
-| Clone Spotify Web | Layout inspirado no Spotify | Planejado |
-| Projetos Front-end | Estudos e mini projetos | Em evolução |
-
-> *(Você pode ir atualizando essa tabela conforme for criando projetos)*
-
----
 
 ## ➡️ Conecte-se comigo
 
