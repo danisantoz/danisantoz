@@ -1,26 +1,53 @@
-# 💫 Sobre Mim
-
-Olá! Me chamo **Daniel**, tenho 20 anos e sou estudante do **5º semestre de Análise e Desenvolvimento de Sistemas** pela Anhanguera.
-
-Sou apaixonado por tecnologia e desenvolvimento front-end, com foco em transformar ideias em interfaces funcionais e bem estruturadas usando **HTML, CSS e JavaScript**.
-
-Esse GitHub é meu espaço para compartilhar projetos práticos, estudos e minha evolução como desenvolvedor. Fique à vontade para explorar 🚀
+# 👨‍💻 Daniel Pereira
+### Estudante de Análise e Desenvolvimento de Sistemas | Front-end em evolução
 
 ---
 
-## 🌎 Conecte-se comigo
+## ➡️ Sobre mim
 
-<div>
-  <a href="https://www.linkedin.com/in/daniel-pereira-d-8a018a2a6/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+Olá! Me chamo Daniel, tenho 20 anos e sou estudante do 5º semestre de **Análise e Desenvolvimento de Sistemas** pela Anhanguera.
+
+Sou apaixonado por tecnologia e desenvolvimento **front-end**, com foco em transformar ideias em **interfaces funcionais, organizadas e responsivas**, utilizando **HTML, CSS e JavaScript**.
+
+Este GitHub é meu espaço para compartilhar **projetos práticos, estudos e minha evolução constante como desenvolvedor**.  
+Fique à vontade para explorar 🚀
+
+---
+
+## ➡️ Tecnologias & Ferramentas
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+</p>
+
+---
+
+## ➡️ Projetos em destaque
+
+| Projeto | Descrição | Status |
+|-------|----------|--------|
+| Clone Netflix | Interface inspirada na Netflix (HTML/CSS) | Em desenvolvimento |
+| Clone Spotify Web | Layout inspirado no Spotify | Planejado |
+| Projetos Front-end | Estudos e mini projetos | Em evolução |
+
+> *(Você pode ir atualizando essa tabela conforme for criando projetos)*
+
+---
+
+## ➡️ Conecte-se comigo
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/seu-linkedin-aqui" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</div>
+</p>
 
 ---
 
-## 💻 Tecnologias utilizadas nos projetos
+## 📌 Objetivo atual
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
-
+Aprimorar minha lógica de programação e habilidades em **front-end**, evoluindo para projetos mais completos e experiências reais no desenvolvimento web.
