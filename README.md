@@ -41,7 +41,7 @@ Fique à vontade para explorar 🚀
 ## ➡️ Conecte-se comigo
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/seu-linkedin-aqui" target="_blank">
+  <a href="https://www.linkedin.com/in/daniel-pereira-d-8a018a2a6/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
