@@ -1,5 +1,5 @@
 # 👨‍💻 Daniel Pereira
-### Estudante de Análise e Desenvolvimento de Sistemas | Front-end.
+### Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Front-end
 
 ---
 
