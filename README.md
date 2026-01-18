@@ -37,6 +37,6 @@ Fique à vontade para explorar 🚀
 
 ---
 
-## 📌 Objetivo atual
+## 📌 Foco atual
 
-Aprimorar minha lógica de programação e habilidades em **front-end**, evoluindo para projetos mais completos e experiências reais no desenvolvimento web.
+Aprimorar minha lógica de programação e habilidades em **front-end**, evoluindo para projetos mais completos e experiências maiores no desenvolvimento web.
