@@ -1,42 +1,57 @@
 # 👨‍💻 Daniel Pereira
-### Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Front-end.
+
+### Desenvolvedor Front-End | HTML, CSS & JavaScript
 
 ---
 
 ## ➡️ Sobre mim
 
-Olá! Me chamo Daniel, tenho 20 anos e sou estudante do 5º semestre de **Análise e Desenvolvimento de Sistemas** pela Anhanguera.
+Olá! Me chamo **Daniel Pereira** e sou formado em **Análise e Desenvolvimento de Sistemas** pela Anhanguera.
 
-Sou apaixonado por tecnologia e desenvolvimento **front-end**, com foco em transformar ideias em **interfaces funcionais, organizadas e responsivas**, utilizando **HTML, CSS e JavaScript**.
+Atuo como **Desenvolvedor Front-End**, com foco na criação de interfaces **funcionais, responsivas e visualmente bem estruturadas**, utilizando principalmente **HTML, CSS e JavaScript**.
 
-Este GitHub é meu espaço para compartilhar **projetos práticos, estudos e minha evolução constante como desenvolvedor**.  
-Fique à vontade para explorar 🚀
+Gosto de transformar ideias em experiências digitais e desenvolver projetos que combinam **código, design e usabilidade**.
+
+Este GitHub reúne meus **projetos autorais, experimentos e trabalhos práticos**, refletindo minha forma de pensar, desenvolver e solucionar problemas.
+
+Atualmente, estou em busca de **oportunidades profissionais na área de desenvolvimento Front-End**, onde possa contribuir, continuar evoluindo e transformar conhecimento em projetos reais.
 
 ---
 
 ## ➡️ Tecnologias & Ferramentas
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-</p>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+</div>
 
 ---
 
+## 🤖 Desenvolvimento com IA
+
+Utilizo ferramentas de **Inteligência Artificial como parte do meu processo de desenvolvimento**, principalmente para explorar ideias, analisar problemas, pesquisar possibilidades e acelerar etapas do desenvolvimento.
+
+As soluções são **revisadas, adaptadas e validadas por mim**, utilizando a IA como ferramenta de apoio e produtividade, sem substituir a compreensão do código ou as decisões de desenvolvimento.
+
+---
+
+## 📌 Atualmente
+
+* 💻 Desenvolvendo projetos autorais em **Front-End**
+* 🌐 Aprimorando minhas habilidades em **HTML, CSS e JavaScript**
+* 🧩 Criando interfaces responsivas e experiências web
+* 🤖 Explorando ferramentas de **IA aplicadas ao desenvolvimento**
+* 🚀 Em busca de **oportunidades profissionais como Desenvolvedor Front-End**
+
+---
 
 ## ➡️ Conecte-se comigo
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/daniel-pereira-d-8a018a2a6/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/daniel-pereira-d-8a018a2a6/)
 
 ---
 
-## 📌 Foco atual
-
-Aprimorar minha lógica de programação e habilidades em **front-end**, evoluindo para projetos mais completos e experiências maiores no desenvolvimento web.
+### Obrigado por visitar meu GitHub! 🚀
